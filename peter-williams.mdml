@@ -28,7 +28,6 @@ process and business processes to which the software is related.
    languages, including Ruby, RESTful web service design, unit testing,
    agile methodologies, etc.
 
-
  * Reengineered business processes to achieve notable reduction in
    complexity and redundancy.  This effort was based on a thorough
    analysis of information discovered during requirements gathering
@@ -99,3 +98,4 @@ Alternate formats: [PDF][pdf-resume], [MS Word][word-resume]
 [pdf-resume]: http://pezra.barelyenough.org/blog/wp-content/uploads/2008/04/peter-williams.pdf
 [word-resume]: http://pezra.barelyenough.org/blog/wp-content/uploads/2008/04/peter-williams.doc
 [resourceful]: http://github.com/paul/resourceful/tree/master
+[rspec-mode]: http://pezra.barelyenough.org/projects/rspec-mode
