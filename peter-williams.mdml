@@ -1,9 +1,11 @@
+Latex preamble: preamble.tex
+
 Peter Williams
 ==============
 
 peter.williams@barelyenough.org  
 720.280.2436  
-http://pezra.barelyenough.org  
+http://pezra.barelyenough.org
 
 Versatile technical leader with experience in all phases of the
 software lifecycle.  Strong understanding of the current state
@@ -50,9 +52,6 @@ Accomplishments
 Skills
 -------
 
- * Experienced with a wide range of web application technologies
-   including HTML, XHTML, CSS, Javascript, Ruby on Rails and JSON.
-
  * In depth knowledge of web service oriented architectures and related
    technologies included RESTful service design, JSON, XML, SOAP and
    HTTP
@@ -61,7 +60,10 @@ Skills
    patterns, object-oriented analysis and design and message/document
    format design.
 
- * Experienced in Ruby, Python, Java, C/C++, Javascript, Lisp and
+ * Experienced with a wide range of web application technologies
+   including HTML, XHTML, CSS, Javascript, Ruby on Rails and JSON.
+
+ * Proficient in Ruby, Python, Java, C/C++, Javascript, Lisp and
    shell scripting.
 
  * Conversant in a variety of software development methodologies
@@ -70,7 +72,6 @@ Skills
  * Familiar with PostgreSQL, MySQL, SQLite, MS SQL Server and
    Oracle. Solid understanding of logical data modeling as well as
    some experience in physical data modeling in the open-source RDBMSs
-
 
 Work History
 ------------
@@ -103,5 +104,3 @@ Work History
    1997 - 1998  
    Software Engineer
 
-Alternate formats: [PDF](http://pezra.barelyenough.org/blog/wp-content/uploads/2008/04/peter-williams.pdf), 
-[MS Word](http://pezra.barelyenough.org/blog/wp-content/uploads/2008/04/peter-williams.doc)
