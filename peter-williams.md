@@ -25,7 +25,8 @@ Accomplishments
    to be significantly more reliable, maintainable and manageable.
 
  * Instituted systemic use of automated unit and functional testing in
-   development departments that had previously has no quality processes.
+   development departments that had previously had very weak, or
+   absent, quality processes.
 
  * Created mechanisms to allow web applications to be readily
    localized into multiple languages (ie, internationalization).
@@ -38,7 +39,7 @@ Accomplishments
    languages, including Ruby, RESTful web service design, unit testing,
    agile methodologies, etc.
 
- * Reengineered business processes to achieve notable reduction in
+ * Re-engineered business processes to achieve notable reduction in
    complexity and redundancy.  This effort was based on a thorough
    analysis of information discovered during requirements gathering
    and elicitation phase.
@@ -76,31 +77,119 @@ Skills
 Work History
 ------------
 
- * Gnip, Inc  
-   2008  
-   Systems Architect
+### Gnip, Inc  
 
- * Absolute Performance, Inc.  
-   2006 - 2008  
-   Senior Software Engineer
+Systems Architect  
+June 2008 - July 2008
 
- * WebRoot Software, Inc.  
-   2006  
-   Senior Web  Developer
+ * Designed and documented REST/HTTP web service APIs for data
+   aggregation/filtering and identity management.
+
+ * Implemented availability monitoring system
+   ([Nagios](http://www.nagios.org/) plus custom plugins) for
+   multi-component production system.
+
+ * Managed a pure cloud ([Amazon EC2](http://www.amazon.com/gp/browse.html?node=201590011) and
+   [S3](http://www.amazon.com/gp/browse.html?node=16427261) production
+   deployment of a multi-node high availability system.
+
+ * Java, Ruby, and Python components deployed on Linux
+
+### Absolute Performance, Inc.  
+
+Senior Software Engineer  
+November 2006 - May 2008
+
+ * Lead service oriented re-architecture effort which resulted in a
+   radically more maintainable and scalable system.
+
+ * Designed and documented REST/HTTP web service APIs.  This included
+   design of JSON based data formats and API versioning strategy.
+
+ * Evangelized improved quality processes included systemic unit
+   testing, automated acceptance testing, etc
+
+ * Instrumental in switch to [Git](http://git.or.cz/) source control
+   system.
+
+ * Designed system to support software as a service (SaaS) model with
+   multiple customers sharing deployments.  
+
+ * Ruby, C++ and Java components deployed on Linux
+
+### WebRoot Software, Inc.  
+
+Senior Web Developer  
+May 2006  - November 2006
+
+ * Implemented internationalization extensions to template library
+   that allowed website to be much more easily localization.
+
+ * Evangelized improved quality processes included systemic unit
+   testing, automated acceptance testing, etc
+
+ * Liaison to external contractors, including code/design reviews,
+   integration of code into internal source control repositories,
+   performing deployments and debugging hard to reproduce issues.
+
+ * PHP and Ruby deployed on Linux
  
- * Certified Financial Planners Board of Standards, Inc.  
-   2005 - 2006  
-   Technical Lead
 
- * DigitalGlobe, Inc.  
-   2004 - 2005  
-   Senior Software Engineer
+### Certified Financial Planners Board of Standards, Inc.  
 
- * GE Energy  
-   1998 - 2004  
-   Software Architect
+Technical Lead  
+November 2005 - May 2006
 
- * Integware, Inc  
-   1997 - 1998  
-   Software Engineer
+ * Lead team of three developers.
+
+ * Evangelized improved quality processes included systemic unit
+   testing, automated acceptance testing, etc
+
+ * Mentored team in the use of Ruby, and dynamic languages in general.
+
+ * Engaged in business process re-engineering efforts resulting in a
+   significant streamlining of the processes involved.
+
+ * Ruby deployed on Linux
+
+### DigitalGlobe, Inc.  
+
+Senior Software Engineer  
+September 2004 - October 2005
+
+ * Designed and implemented highly configurable work flow engine that
+   handled fulfillment of all orders.
+
+ * Designed and implemented dashboard for the order fulfillment system
+   to allow operations to track the progress of an order.
+
+ * Java, PHP and Ruby deployed on Linux
+
+### GE Energy  
+
+Software Architect  
+October 1998 - August 2004
+
+ * Lead team of five developers and two QA
+
+ * Designed and implemented web application server.
+
+ * Evangelized the use of web services as a way to implement
+   application integrations.
+
+ * Implemented, and evangelized use of, xUnit testing framework for
+   proprietary language used by my division.
+   
+ * [Magik](http://en.wikipedia.org/wiki/Magik_(programming_language),
+   C++, Python on various flavors of Unix and Windows
+
+### Integware, Inc  
+
+Software Engineer  
+August 1997 - October 1998
+
+ * Designed and implemented data analysis tool.
+
+ * Designed and implemented extensible CAD to engineering document
+   management integration mechanism.
 
