@@ -3,9 +3,9 @@ Latex preamble: preamble.tex
 Peter Williams
 ==============
 
-peter.williams@barelyenough.org  
-720.280.2436  
-http://pezra.barelyenough.org
+<peter.williams@barelyenough.org>  
+[720.280.2436](tel:+1.720.280.2436)  
+<http://barelyenough.org>
 
 Versatile technical leader with experience in all phases of the
 software lifecycle.  Strong understanding of the current state
@@ -19,68 +19,57 @@ process and business processes to which the software is related.
 Accomplishments
 ---------------
 
- * Achieved an order of magnitude improvement in scalability of a
-   Software as a Service offering by re-architecting with service
-   oriented principles.  The new architecture also allowed the system
-   to be significantly more reliable, maintainable and manageable.
+ * Achieved an order of magnitude improvement in scalability of a SaaS
+   offering using service oriented principles.
 
- * Instituted systemic use of automated unit and functional testing in
-   development departments that had previously had very weak, or
-   absent, quality processes.
+ * Improved software quality though the systemic use of automated unit
+   and functional testing.
 
- * Created mechanisms to allow web applications to be readily
-   localized into multiple languages (ie, internationalization).
+ * Re-engineered business processes to achieve notable reductions in
+   complexity and human effort.
 
- * Effectively integrated off-site contractors and geographically
-   distributed team members into overall application development
-   efforts.
+ * Mentored others in areas such as effective use of dynamic
+   languages, web services, unit testing and agile methodologies.
 
- * Successfully mentored others in many areas such as effective use of dynamic
-   languages, including Ruby, RESTful web service design, unit testing,
-   agile methodologies, etc.
-
- * Re-engineered business processes to achieve notable reduction in
-   complexity and redundancy.  This effort was based on a thorough
-   analysis of information discovered during requirements gathering
-   and elicitation phase.
-
- * Drove changes in development processes to allow them to be more
-   transparent to business stakeholders.
+ * Effectively coordinated efforts of geographically distributed team.
 
  * Active open source collaborator: [Resouceful](http://github.com/paul/resourceful/tree/master),
-   [rpec-mode](http://pezra.barelyenough.org/projects/rspec-mode)
+   [rspec-mode](http://pezra.barelyenough.org/projects/rspec-mode)
 
 Skills
 -------
 
- * In depth knowledge of web service oriented architectures and related
-   technologies included RESTful service design, JSON, XML, SOAP and
-   HTTP
+ * REST, SOA, web services, JSON, XML, SOAP and HTTP
 
- * Deep comprehension of scalable system architectures, design
-   patterns, object-oriented analysis and design and message/document
-   format design.
+ * Scalable architectures, design patterns, object-oriented analysis
+   and design and document format design
 
- * Experienced with a wide range of web application technologies
-   including HTML, XHTML, CSS, Javascript, Ruby on Rails and JSON.
+ * HTML, XHTML, CSS, Javascript, Ruby on Rails and JSON
 
- * Proficient in Ruby, Python, Java, C/C++, Javascript, Lisp and
-   shell scripting.
+ * Ruby, Python, Java, C/C++, Javascript, Lisp and shell scripting
 
- * Conversant in a variety of software development methodologies
-   including XP, RUP and agile.
+ * Agile, scrum, XP, RUP
 
- * Familiar with PostgreSQL, MySQL, SQLite, MS SQL Server and
-   Oracle. Solid understanding of logical data modeling as well as
-   some experience in physical data modeling in the open-source RDBMSs
+ * Relation database design, PostgreSQL, MySQL, SQLite, MS SQL Server and
+   Oracle. 
+
+Education
+---------
+
+### Computer Science, BS (incomplete)
+University of South Alabama, 1994 - 1996 
+Colorado State University, 1997
+
+### Certificate of Software Engineering
+University of Colorado at Boulder, 2002 - 2003
+
 
 Work History
 ------------
 
-### Gnip, Inc  
+### Systems Architect
 
-Systems Architect  
-June 2008 - July 2008
+[Gnip](http://gnipcentral.com), June 2008 - July 2008
 
  * Designed and documented REST/HTTP web service APIs for data
    aggregation/filtering and identity management.
@@ -95,10 +84,9 @@ June 2008 - July 2008
 
  * Java, Ruby, and Python components deployed on Linux
 
-### Absolute Performance, Inc.  
+### Senior Software Engineer  
 
-Senior Software Engineer  
-November 2006 - May 2008
+[Absolute Performance](http://www.absolute-performance.com/), November 2006 - May 2008
 
  * Lead service oriented re-architecture effort which resulted in a
    radically more maintainable and scalable system.
@@ -115,12 +103,11 @@ November 2006 - May 2008
  * Designed system to support software as a service (SaaS) model with
    multiple customers sharing deployments.  
 
- * Ruby, C++ and Java components deployed on Linux
+ * Ruby deployed on Linux
 
-### WebRoot Software, Inc.  
+### Senior Web Developer  
 
-Senior Web Developer  
-May 2006  - November 2006
+[WebRoot Software](http://webroot.com), May 2006  - November 2006
 
  * Implemented internationalization extensions to template library
    that allowed website to be much more easily localization.
@@ -134,11 +121,9 @@ May 2006  - November 2006
 
  * PHP and Ruby deployed on Linux
  
+### Technical Lead  
 
-### Certified Financial Planners Board of Standards, Inc.  
-
-Technical Lead  
-November 2005 - May 2006
+[Certified Financial Planners Board of Standards](http://www.cfp.net/), November 2005 - May 2006
 
  * Lead team of three developers.
 
@@ -152,10 +137,9 @@ November 2005 - May 2006
 
  * Ruby deployed on Linux
 
-### DigitalGlobe, Inc.  
+### Senior Software Engineer  
 
-Senior Software Engineer  
-September 2004 - October 2005
+[DigitalGlobe](http://digitalglobe.com/), September 2004 - October 2005
 
  * Designed and implemented highly configurable work flow engine that
    handled fulfillment of all orders.
@@ -165,10 +149,9 @@ September 2004 - October 2005
 
  * Java, PHP and Ruby deployed on Linux
 
-### GE Energy  
+### Software Architect  
 
-Software Architect  
-October 1998 - August 2004
+[GE Energy](http://www.gepower.com/), October 1998 - August 2004
 
  * Lead team of five developers and two QA
 
@@ -183,13 +166,15 @@ October 1998 - August 2004
  * [Magik](http://en.wikipedia.org/wiki/Magik_(programming_language),
    C++, Python on various flavors of Unix and Windows
 
-### Integware, Inc  
+### Software Engineer  
 
-Software Engineer  
-August 1997 - October 1998
+[Integware](http://integware.com/), August 1997 - October 1998
 
  * Designed and implemented data analysis tool.
 
  * Designed and implemented extensible CAD to engineering document
    management integration mechanism.
 
+
+
+*[SaaS]: Software as a Service
