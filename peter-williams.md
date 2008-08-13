@@ -7,14 +7,14 @@ Peter Williams
 [720.280.2436](tel:+1.720.280.2436)  
 <http://barelyenough.org>
 
-Versatile technical leader with experience in all phases of the
-software lifecycle.  Strong understanding of the current state
-of the art in software development technologies, practices and
-methodologies.  Noted for ability to learn new technologies and
-techniques rapidly, see situations where they may be applied
-advantageously and to coach others in their use.  Evangelist for
-continuous process improvements in both the software development
-process and business processes to which the software is related.
+Versatile software architect with experience in all phases of the
+software lifecycle.  Strong understanding of the current state of the
+art in software development technologies, practices and methodologies.
+Noted for ability to learn new technologies and techniques rapidly,
+see situations where they may be applied advantageously and to coach
+others in their use.  Evangelist for continuous process improvements
+in both the software development process and business processes to
+which the software is related.
 
 Accomplishments
 ---------------
@@ -53,11 +53,8 @@ Skills
  * Relation database design, PostgreSQL, MySQL, SQLite, MS SQL Server and
    Oracle. 
 
-Education
----------
-
 ### Computer Science, BS (incomplete)
-University of South Alabama, 1994 - 1996 
+University of South Alabama, 1994 - 1996  
 Colorado State University, 1997
 
 ### Software Engineering, Certificate
