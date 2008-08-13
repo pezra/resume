@@ -1,18 +1,18 @@
 Charles Savage
-Former Manager
+Manager at GE Energy
 cfis@savagexi.com
 303.668.0356
 
 Brian Erickson
-Former Coworker
+Coworker at GE Energy
 djbriane@yahoo.com
 720.810.7362
 
 Paul Sadauskas
-Former Coworker
+Coworker at Absolute Performance
 psadauskas@gmail.com
 
 Donnie Marino
-Former Manager
+Manager at DigitalGlobe and Certified Financial Planners Board of Standards
 donaldmarino@mac.com
 303.550.7661
