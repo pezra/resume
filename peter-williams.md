@@ -10,11 +10,12 @@ Peter Williams
 Software architect with expertise in highly scalable web applications,
 SOA and high quality software development.  Strong understanding of
 the current state of the art in software development technologies,
-practices and methodologies.  Noted for ability to learn new
-technologies and techniques rapidly, see situations where they may be
-applied advantageously and to coach others in their use.  Evangelist
-for continuous process improvements in both the software development
+practices and methodologies.  Able to learn new technologies and
+techniques rapidly, see situations where they may be applied
+advantageously and coach others in their use.  Evangelist for
+continuous process improvements in both the software development
 process and business processes to which the software is related.
+
 
 Accomplishments
 ---------------
@@ -36,6 +37,7 @@ Accomplishments
  * Active open source collaborator: [Resouceful](http://github.com/paul/resourceful/tree/master),
    [rspec-mode](http://pezra.barelyenough.org/projects/rspec-mode)
 
+
 Skills
 -------
 
@@ -52,13 +54,6 @@ Skills
 
  * Relation database design, PostgreSQL, MySQL, SQLite, MS SQL Server and
    Oracle. 
-
-### Computer Science, BS (incomplete)
-University of South Alabama, 1994 - 1996  
-Colorado State University, 1997
-
-### Software Engineering, Certificate
-University of Colorado at Boulder, 2002 - 2003
 
 
 Work History
@@ -171,6 +166,17 @@ Work History
 
  * Designed and implemented extensible CAD to engineering document
    management integration mechanism.
+
+
+Education
+---------
+
+### Software Engineering, Certificate
+University of Colorado at Boulder, 2002 - 2003
+
+### Computer Science, BS (incomplete)
+University of South Alabama, 1994 - 1996  
+Colorado State University, 1997
 
 
 
