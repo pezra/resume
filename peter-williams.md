@@ -185,7 +185,6 @@ Work History
    management integration mechanism.
 
 
-
 *[SaaS]: Software as a Service
 *[REST]: Representational State Transfer
 *[SOA]: Service Oriented Architecture
