@@ -9,12 +9,11 @@ Peter Williams
 
 Software architect with expertise in highly scalable web applications,
 REST, SOA and high quality software development.  Strong understanding
-of the current state of the art in software development technologies,
-practices and methodologies.  Able to learn new technologies and
-techniques rapidly, see situations where they may be applied
-advantageously and coach others in their use.  Evangelist for
-continuous process improvements in both the software development
-process and business processes to which the software is related.
+of software development technologies, practices and methodologies.
+Able to learn new technologies and techniques rapidly, see situations
+where they may be applied advantageously and coach others in their
+use.  Evangelist for continuous process improvements in both the
+software development process and related business processes.
 
 
 Accomplishments
