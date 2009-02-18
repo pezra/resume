@@ -89,7 +89,7 @@ Work History
    multi-component production system.
 
  * Managed a pure cloud ([Amazon EC2](http://www.amazon.com/gp/browse.html?node=201590011) and
-   [S3](http://www.amazon.com/gp/browse.html?node=16427261) production
+   [S3](http://www.amazon.com/gp/browse.html?node=16427261)) production
    deployment of a multi-node high availability system.
 
  * Java, Ruby, and Python components deployed on Linux
