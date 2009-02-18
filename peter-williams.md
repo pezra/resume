@@ -7,13 +7,13 @@ Peter Williams
 [720.280.2436](tel:+1.720.280.2436)  
 <http://barelyenough.org>
 
-Software architect with expertise in highly scalable web applications,
-REST, SOA and high quality software development.  Strong understanding
-of software development technologies, practices and methodologies.
-Able to learn new technologies and techniques rapidly, see situations
-where they may be applied advantageously and coach others in their
-use.  Evangelist for continuous process improvements in both the
-software development process and related business processes.
+Software architect with expertise in scalable applications, REST, SOA
+and high quality software development.  Strong understanding of
+software development technologies, practices and methodologies.  Able
+to learn new technologies and techniques rapidly, see situations where
+they may be applied advantageously and coach others in their use.
+Evangelist for continuous process improvements in both the software
+development process and related business processes.
 
 
 Accomplishments
