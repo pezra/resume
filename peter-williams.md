@@ -8,8 +8,8 @@ Peter Williams
 <http://barelyenough.org>
 
 Software architect with expertise in highly scalable web applications,
-SOA and high quality software development.  Strong understanding of
-the current state of the art in software development technologies,
+REST, SOA and high quality software development.  Strong understanding
+of the current state of the art in software development technologies,
 practices and methodologies.  Able to learn new technologies and
 techniques rapidly, see situations where they may be applied
 advantageously and coach others in their use.  Evangelist for
@@ -32,32 +32,50 @@ Accomplishments
  * Mentored others in areas such as effective use of dynamic
    languages, web services, unit testing and agile methodologies.
 
- * Effectively coordinated efforts of geographically distributed team.
+ * Designed system architectures that support changing business needs
+   without requiring large re-investments in existing components.
 
  * Active open source collaborator: [Resouceful](http://github.com/paul/resourceful/tree/master),
-   [rspec-mode](http://pezra.barelyenough.org/projects/rspec-mode)
+   [rspec-mode](http://pezra.barelyenough.org/projects/rspec-mode), [GitHub profile](http://github.com/pezra)
 
 
 Skills
 -------
 
- * REST, SOA, web services, JSON, XML, SOAP and HTTP
+ * REST, SOA, WOA, web services, JSON, XML, SOAP, HTTP
 
  * Scalable architectures, design patterns, object-oriented analysis
-   and design and document format design
+   and design, data format design, REST web service design
 
- * HTML, XHTML, CSS, Javascript, Ruby on Rails and JSON
+ * HTML, XHTML, CSS, Javascript, Ruby on Rails, JSON
 
- * Ruby, Python, Java, C/C++, Javascript, Lisp and shell scripting
+ * Ruby, Python, Java, shell scripting
 
  * Agile, scrum, XP, RUP
 
- * Relation database design, PostgreSQL, MySQL, SQLite, MS SQL Server and
-   Oracle. 
+ * Relation database design, PostgreSQL, MySQL, SQLite, MS SQL Server,
+   Oracle
 
 
 Work History
 ------------
+
+### Lead Software Engineer
+
+[Brightkite](http://brightkite.com), August 2008 - February 2009
+
+ * Implemented database replication using [Slony-I](http://slony.info/)
+
+ * Administered cluster of production hardware serving a public facing
+   website
+
+ * Integrated external web services to support user facing features
+
+ * Supported multiple mobile application development efforts by
+   creating new APIs and capabilities as needed
+ 
+ * Improved operational procedures to reduce the number and duration of
+   outages
 
 ### Systems Architect
 
