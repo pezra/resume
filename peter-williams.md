@@ -3,7 +3,7 @@ Latex preamble: preamble.tex
 Peter Williams
 ==============
 
-[peter.williams@barelyenough.org](mailto:peter.williams@barelyenough.org)
+[peter.williams@barelyenough.org](mailto:peter.williams@barelyenough.org)  
 [720.280.2436](tel:+1.720.280.2436)  
 <http://barelyenough.org>
 
