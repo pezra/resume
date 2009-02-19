@@ -1,10 +1,40 @@
+\usepackage[T1]{fontenc}
+\usepackage[scaled]{helvet}
+\renewcommand*\familydefault{\sfdefault}
 
-\setlength{\parindent}{0in}
-\setlength{\parskip}{0.1in}
-\setlength{\headsep}{0in}
-\setlength{\topmargin}{-0.33in}
-\setlength{\textheight}{9.5in}
-\setlength{\textwidth}{7in}
-\setlength{\oddsidemargin}{-0.33in}
+\setlength\parindent{0in}
+\setlength\parskip{0.1in}
+\setlength\headheight{0in}
+\setlength\headsep{0in}
+\setlength\footskip{0in}
 
-\renewcommand{\familydefault}{\sfdefault}
+\setlength\textheight{9.5in}
+\setlength\textwidth{7in}
+
+\setlength\topmargin{-0.3in}
+
+\setlength\oddsidemargin{-0.2in}
+\setlength\evensidemargin{-0.2in}
+
+\hypersetup{colorlinks=false}
+
+% list styles
+\renewenvironment{itemize}
+{
+    \begin{list}{• \ }{}
+        \setlength\topsep{0in}
+        \setlength\parskip{0in}
+        \setlength\partopsep{0in}
+        \setlength\parsep{0in}         
+        \setlength\itemsep{0in} 
+}
+{
+    \end{list} 
+}
+
+\usepackage{scalefnt}
+
+\usepackage[tiny,compact]{titlesec}
+\titlespacing*{\subsection}{0pt}{0pt}{0pt}
+\titlespacing*{\subsubsection}{0pt}{0pt}{0pt}
+
