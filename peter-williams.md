@@ -7,13 +7,14 @@ Peter Williams
 [720.280.2436](tel:+1.720.280.2436)  
 <http://barelyenough.org>
 
-Software architect with expertise in scalable applications, REST, SOA
-and high quality software development.  Strong understanding of
-software development technologies, practices and methodologies.  Able
-to learn new technologies and techniques rapidly, see situations where
-they may be applied advantageously and coach others in their use.
-Evangelist for continuous process improvements in both the software
-development process and related business processes.
+Software generalist with expertise in scalable applications, REST,
+dynamic languages and high quality software development.  Strong
+understanding of software development technologies, practices and
+methodologies.  Able to learn new technologies and techniques rapidly,
+see situations where they may be applied advantageously and coach
+others in their use.  Evangelist for continuous process improvements
+in both the software development process and related business
+processes.
 
 
 Accomplishments
@@ -41,18 +42,18 @@ Accomplishments
 Skills
 -------
 
- * REST, SOA, WOA, web services, JSON, XML, SOAP, HTTP
+ * REST, HTTP, web services, JSON, XML, SOA, WOA, SOAP
 
- * Scalable architectures, design patterns, object-oriented analysis
+ * scalable architectures, design patterns, object-oriented analysis
    and design, data format design, REST web service design
 
  * HTML, XHTML, CSS, Javascript, Ruby on Rails, JSON
 
  * Ruby, Python, Java, shell scripting
 
- * Agile, scrum, XP, RUP
+ * agile, Scrum, XP, RUP
 
- * Relation database design, PostgreSQL, MySQL, SQLite, MS SQL Server,
+ * relation database design, PostgreSQL, MySQL, SQLite, MS SQL Server,
    Oracle
 
 
@@ -63,18 +64,18 @@ Work History
 
 [Brightkite](http://brightkite.com), August 2008 - February 2009
 
- * Implemented database replication using [Slony-I](http://slony.info/)
-
  * Administered cluster of production hardware serving a public facing
-   website
+   web application.
 
- * Integrated external web services to support user facing features
+ * Implemented database replication using [Slony-I](http://slony.info/).
+
+ * Integrated external web services to support user facing features.
 
  * Supported multiple mobile application development efforts by
-   creating new APIs and capabilities as needed
+   creating new APIs and capabilities as needed.
  
  * Improved operational procedures to reduce the number and duration of
-   outages
+   outages.
 
 ### Systems Architect
 
@@ -90,8 +91,6 @@ Work History
  * Managed a pure cloud ([Amazon EC2](http://www.amazon.com/gp/browse.html?node=201590011) and
    [S3](http://www.amazon.com/gp/browse.html?node=16427261)) production
    deployment of a multi-node high availability system.
-
- * Java, Ruby, and Python components deployed on Linux
 
 ### Senior Software Engineer  
 
@@ -112,8 +111,6 @@ Work History
  * Designed system to support software as a service (SaaS) model with
    multiple customers sharing deployments.  
 
- * Ruby deployed on Linux
-
 ### Senior Web Developer  
 
 [WebRoot Software](http://webroot.com), May 2006  - November 2006
@@ -128,8 +125,6 @@ Work History
    integration of code into internal source control repositories,
    performing deployments and debugging hard to reproduce issues.
 
- * PHP and Ruby deployed on Linux
- 
 ### Technical Lead  
 
 [Certified Financial Planners Board of Standards](http://www.cfp.net/), November 2005 - May 2006
@@ -144,8 +139,6 @@ Work History
  * Engaged in business process re-engineering efforts resulting in a
    significant streamlining of the processes involved.
 
- * Ruby deployed on Linux
-
 ### Senior Software Engineer  
 
 [DigitalGlobe](http://digitalglobe.com/), September 2004 - October 2005
@@ -155,8 +148,6 @@ Work History
 
  * Designed and implemented dashboard for the order fulfillment system
    to allow operations to track the progress of an order.
-
- * Java, PHP and Ruby deployed on Linux
 
 ### Software Architect  
 
