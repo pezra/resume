@@ -1,3 +1,11 @@
+file 'peter-williams.html' => 'peter-williams.md' do 
+  `maruku --html peter-williams.md`
+end
+
+file 'peter-williams.html-frag' => 'peter-williams.md' do 
+  `maruku --html-frag peter-williams.md`
+end
+
 file 'peter-williams.pdf' => 'peter-williams.tex' do 
   `pdflatex peter-williams.tex`
 end  
