@@ -17,7 +17,7 @@ file 'peter-williams.tex' => 'peter-williams.md' do
   doc.gsub!(/\\begin\{document\}/, "\\begin{document}\n\\scalefont{0.75}\n\\pagestyle{empty}")
   doc.gsub!(/^\s*\n(?=\\end)/m, '')
   doc.gsub!(/(\d{4})\s*\n\s*\n/m, "\\1\n")
-  doc.gsub!(/^(Software)/, "\\vspace{0.04in}\n\\1")x
+  doc.gsub!(/^(Software)/, "\\vspace{0.04in}\n\\1")
 
   File.open('peter-williams.tex', 'w') do |f|
     f << doc
@@ -26,8 +26,8 @@ end
 
 
 task :clean do 
-  rm 'peter-williams.html'
-  rm 'peter-williams.html-frag'
-  rm 'peter-williams.tex'
-  rm 'peter-williams.pdf'
+  rm 'peter-williams.html' rescue nil
+  rm 'peter-williams.html-frag' rescue nil
+  rm 'peter-williams.tex' rescue nil
+  rm 'peter-williams.pdf' rescue nil
 end
