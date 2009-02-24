@@ -26,6 +26,8 @@ end
 
 
 task :clean do 
+  rm 'peter-williams.html'
+  rm 'peter-williams.html-frag'
   rm 'peter-williams.tex'
   rm 'peter-williams.pdf'
 end
