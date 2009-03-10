@@ -1,3 +1,5 @@
+require 'rake/clean'
+
 file 'peter-williams.html' => 'peter-williams.md' do 
   `maruku --html peter-williams.md`
 end
@@ -24,10 +26,23 @@ file 'peter-williams.tex' => 'peter-williams.md' do
   end
 end
 
+file 'peter-williams.txt' => 'peter-williams.md' do doc =
+  File.read('peter-williams.md') 
+  doc.gsub!(/\[([^\]]+)\]\(/, '\1 (')
+  doc.gsub!(/\[(.+)\] /, '\1 ') 
+  doc.gsub!(/\A.*(Peter)/m, '\1')
+  doc.gsub!(/^(peter.williams@barelyenough.org).*$/, '\1')
+  doc.gsub!(/^(720.280.2436).*$/, '\1') 
+  doc.gsub!(/\*\[[^\n]+\n/, '')
+  doc.gsub!(/### (.*)$/) {|s| $1.upcase}
 
-task :clean do 
-  rm 'peter-williams.html' rescue nil
-  rm 'peter-williams.html-frag' rescue nil
-  rm 'peter-williams.tex' rescue nil
-  rm 'peter-williams.pdf' rescue nil
+  File.open('peter-williams.txt', 'w') do |f|
+    f << doc
+  end
 end
+
+CLEAN.include('peter-williams.html')
+CLEAN.include('peter-williams.html-frag')
+CLEAN.include('peter-williams.tex')
+CLEAN.include('peter-williams.pdf')
+CLEAN.include('peter-williams.txt')
