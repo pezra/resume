@@ -60,6 +60,7 @@ Work History
    creating new APIs and capabilities as needed.
  * Improved operational procedures to reduce the number and duration of
    outages.
+ * Ruby on Rails on Linux
 
 ### Systems Architect
 [Gnip](http://gnipcentral.com), June 2008 - July 2008
@@ -72,6 +73,7 @@ Work History
  * Managed a pure cloud ([Amazon EC2](http://www.amazon.com/gp/browse.html?node=201590011) and
    [S3](http://www.amazon.com/gp/browse.html?node=16427261)) production
    deployment of a multi-node high availability system.
+ * Java and Ruby on Linux
 
 ### Senior Software Engineer  
 [Absolute Performance](http://www.absolute-performance.com/), November 2006 - May 2008
@@ -86,6 +88,7 @@ Work History
    system.
  * Designed system to support software as a service (SaaS) model with
    multiple customers sharing deployments.  
+ * Ruby and Ruby on Rails on Linux
 
 ### Senior Web Developer  
 [WebRoot Software](http://webroot.com), May 2006  - November 2006
@@ -97,9 +100,9 @@ Work History
  * Liaison to external contractors, including code/design reviews,
    integration of code into internal source control repositories,
    performing deployments and debugging hard to reproduce issues.
+ * PHP and Ruby on FreeBSD
 
 ### Technical Lead  
-
 [Certified Financial Planners Board of Standards](http://www.cfp.net/), November 2005 - May 2006
 
  * Lead team of three developers.
@@ -108,6 +111,7 @@ Work History
  * Mentored team in the use of Ruby, and dynamic languages in general.
  * Engaged in business process re-engineering efforts resulting in a
    significant streamlining of the processes involved.
+ * Ruby on Rails on Linux
 
 ### Senior Software Engineer  
 [DigitalGlobe](http://digitalglobe.com/), September 2004 - October 2005
@@ -116,6 +120,7 @@ Work History
    handled fulfillment of all orders.
  * Designed and implemented dashboard for the order fulfillment system
    to allow operations to track the progress of an order.
+ * Java, Ruby and PHP on Solaris
 
 ### Software Architect  
 [GE Energy](http://www.gepower.com/), October 1998 - August 2004
@@ -126,9 +131,11 @@ Work History
    application integrations.
  * Implemented, and evangelized use of, xUnit testing framework for
    proprietary language used by my division.
-   
+ * [Magik][], Java, Python on Linux, Solaris, Windows, Tru64 and HP-UX
 
 *[SaaS]: Software as a Service
 *[REST]: Representational State Transfer
 *[SOA]: Service Oriented Architecture
+
+[Magik]: http://en.wikipedia.org/wiki/Magik_(programming_language)
 
