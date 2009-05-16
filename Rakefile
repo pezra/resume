@@ -4,7 +4,7 @@ file 'peter-williams.html' => 'peter-williams.md' do
   `maruku --html peter-williams.md`
 end
 
-file 'peter-williams.html-frag' => 'peter-williams.md' do 
+file 'peter-williams.html_frag' => 'peter-williams.md' do 
   `maruku --html-frag peter-williams.md`
 end
 
@@ -42,7 +42,7 @@ file 'peter-williams.txt' => 'peter-williams.md' do doc =
 end
 
 CLEAN.include('peter-williams.html')
-CLEAN.include('peter-williams.html-frag')
+CLEAN.include('peter-williams.html_frag')
 CLEAN.include('peter-williams.tex')
 CLEAN.include('peter-williams.pdf')
 CLEAN.include('peter-williams.txt')
