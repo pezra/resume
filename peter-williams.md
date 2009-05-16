@@ -1,4 +1,5 @@
 Latex preamble: preamble.tex
+CSS: print.css
 
 Peter Williams
 ==============
@@ -30,7 +31,7 @@ Accomplishments
    practices.
  * Re-engineered business processes achieving notable reductions in
    complexity and human effort.
- * Designed system architectures that support changing business needs
+ * Designed systems that support changing business needs
    without requiring large re-investments in existing components.
  * Active open source collaborator: [Resouceful](http://github.com/paul/resourceful/tree/master),
    [rspec-mode](http://pezra.barelyenough.org/projects/rspec-mode), [GitHub profile](http://github.com/pezra)
@@ -91,14 +92,11 @@ Work History
    application integrations.
 
 
-#### Keywords
+#### Buzzwords
 
-REST, HTTP, web services, JSON, XML, SOA, WOA, SOAP, scalable
-architecture, design patterns, object-oriented analysis and design,
-data format design, REST web service design, HTML, XHTML, CSS,
-Javascript, Ruby on Rails, JSON, Ruby, Python, Java, shell scripting,
-agile, Scrum, XP, RUP, relational database design, PostgreSQL, MySQL,
-SQLite, MS SQL Server, Oracle
+REST, HTTP, web services, JSON, XML, SOA, WOA, SOAP, HTML, XHTML, CSS,
+Javascript, Ruby on Rails, Python, Java, shell scripting, agile,
+Scrum, XP, RUP, PostgreSQL, MySQL, SQLite, MS SQL Server, Oracle
 
 *[SaaS]: Software as a Service
 *[REST]: Representational State Transfer
