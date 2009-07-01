@@ -47,6 +47,13 @@ Work History
  * Integrated external functionality using web services.
  * Designed and implemented APIs to support mobile applications.
 
+### Software Developer
+[ID Watchdog](http://idwatchdog.com), March 2009 - June 2009
+
+ * Worked closely with finance and ops teams to elicit and clarify
+   requirements
+ * Maintained and enhanced existing code base
+
 ### Systems Architect
 [Gnip](http://gnipcentral.com), June 2008 - July 2008
 

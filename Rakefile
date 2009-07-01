@@ -41,6 +41,12 @@ file 'peter-williams.txt' => 'peter-williams.md' do
   end
 end
 
+task :copy_html_frag => 'peter-williams.html_frag' do 
+  IO.popen('pbcopy', 'w') do |copy|
+    copy.write(File.read('peter-williams.html_frag'))
+  end
+end  
+
 CLEAN.include('peter-williams.html')
 CLEAN.include('peter-williams.html_frag')
 CLEAN.include('peter-williams.tex')
