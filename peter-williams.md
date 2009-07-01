@@ -39,7 +39,7 @@ Accomplishments
 Work History
 ------------
 
-### Lead Software Engineer
+### Software Developer
 [Brightkite](http://brightkite.com), August 2008 - February 2009
 
  * Administered production deployment of a high volume public facing web
