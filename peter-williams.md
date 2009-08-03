@@ -8,12 +8,12 @@ Peter Williams
 [720.280.2436](tel:+1.720.280.2436)  
 <http://barelyenough.org>
 
-Software generalist with expertise in scalable applications, REST,
-dynamic languages and high quality software development.  Able to
-learn new technologies and techniques rapidly, see situations where
-they may be applied advantageously and coach others in their use.
-Evangelist for continuous process improvements in both the software
-development process and related business processes.
+Software generalist with expertise in REST API design, scalable
+applications, dynamic languages and high quality software development.
+Able to learn and apply new technologies and techniques rapidly and to
+coach others in their use.  Evangelist for continuous process
+improvements in both the software development process and related
+business processes.
 
 Skills
 -------
@@ -39,37 +39,37 @@ Accomplishments
 Work History
 ------------
 
-### Software Developer
-[Brightkite](http://brightkite.com), August 2008 - February 2009
+### Software Developer (Contract)
+[Brightkite](http://brightkite.com), August 2008 - present
 
  * Administered production deployment of a high volume public facing web
    application.
- * Integrated external functionality using web services.
  * Designed and implemented APIs to support mobile applications.
+ * Developed DSLs to improve developer productivity and the
+   expressiveness of the code.
+ * Integrated external functionality using web services.
 
-### Software Developer
+### Software Developer (Contract)
 [ID Watchdog](http://idwatchdog.com), March 2009 - June 2009
 
  * Worked closely with finance and ops teams to elicit and clarify
-   requirements
- * Maintained and enhanced existing code base
-
-### Systems Architect
-[Gnip](http://gnipcentral.com), June 2008 - July 2008
-
- * Designed and documented REST/HTTP web service APIs for data
-   aggregation/filtering and identity management.
- * Managed a pure cloud ([Amazon EC2](http://www.amazon.com/gp/browse.html?node=201590011)),
-   multi-node, high availability system.
+   requirements.  
+ * Maintained and enhanced the existing CRM and batch
+   processing application.
 
 ### Senior Software Engineer  
 [Absolute Performance](http://www.absolute-performance.com/), November 2006 - May 2008
 
  * Lead service oriented re-architecture effort which resulted in a
    highly maintainable and scalable system.
+ * Designed and documented REST/HTTP APIs, including JSON data formats
+   and API versioning strategy.
  * Drove improvements in quality processes.
  * Instrumental in implementation and deployment of a multi-tenant
    software as a service (SaaS).
+
+(I have continued to help, on a limited basis, the team at Absolute
+Performance with API design issues since my departure.)
 
 ### Senior Web Developer  
 [WebRoot Software](http://webroot.com), May 2006  - November 2006
@@ -77,6 +77,8 @@ Work History
  * Improved quality processes, including introduction of automated
    testing.
  * Managed external contractors, including code/design reviews.
+ * Implemented internationalization extensions to template library
+   that allowed website to be much more easily localization.
 
 ### Technical Lead  
 [Certified Financial Planners Board of Standards](http://www.cfp.net/), November 2005 - May 2006
@@ -88,7 +90,8 @@ Work History
 ### Senior Software Engineer  
 [DigitalGlobe](http://digitalglobe.com/), September 2004 - October 2005
 
- * Designed and implemented highly configurable work flow engine.
+ * Participated in design and implementian of highly configurable work
+   flow engine.
  * Created dashboard to track and manage order fulfillment. 
 
 ### Software Architect  
@@ -97,13 +100,16 @@ Work History
  * Designed and implemented web application server.
  * Evangelized the use of web services as a way to implement
    application integrations.
+ * Designed and implemented REST/HTTP APIs for exposing geospatial
+   applications.
 
 
 #### Buzzwords
 
-REST, HTTP, web services, JSON, XML, SOA, WOA, SOAP, HTML, XHTML, CSS,
-Javascript, Ruby on Rails, Python, Java, shell scripting, agile,
-Scrum, XP, RUP, PostgreSQL, MySQL, SQLite, MS SQL Server, Oracle
+REST, HTTP, web services, WebArch, JSON, XML, SOA, WOA, SOAP, HTML,
+XHTML, CSS, Javascript, Ruby on Rails, Java, shell scripting, agile,
+Scrum, XP, RUP, PostgreSQL, MySQL, SQLite, MS SQL Server, Oracle, LOP,
+DSL
 
 *[SaaS]: Software as a Service
 *[REST]: Representational State Transfer
